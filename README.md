@@ -1,4 +1,4 @@
-# netology-test
+
 …or create a new repository on the command line
 echo "# netology-test" >> README.md
 git init
